@@ -13,3 +13,6 @@ Basically, generate a unique salt for the client, and keep a note for future. Fo
 
 Simple, handy and an interesting example to play about with. This application could be modified for more secure and complex salts as well as alternate encryption algorithms. Have fun with it.
 
+Chris Walker.
+cwalker.me.uk
+chris@cwalker.me.uk
