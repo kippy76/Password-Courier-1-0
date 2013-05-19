@@ -1,5 +1,5 @@
-Password Courier V 1.0
-Visual Studio 2010 Project
+##Password Courier V 1.0
+#Visual Studio 2010 Project
 
 I'm involved in a project at the moment where password access will be granted for staff and public use. It struck me that delivery of passwords via e-mail is fraught with issues, and wondered if there may be a better way to deliver passwords to clients that need regular passwords delivered to them.
 
@@ -13,6 +13,6 @@ Basically, generate a unique salt for the client, and keep a note for future. Fo
 
 Simple, handy and an interesting example to play about with. This application could be modified for more secure and complex salts as well as alternate encryption algorithms. Have fun with it.
 
-Chris Walker.
-cwalker.me.uk
-chris@cwalker.me.uk
+#Chris Walker.
+#cwalker.me.uk
+#chris@cwalker.me.uk
